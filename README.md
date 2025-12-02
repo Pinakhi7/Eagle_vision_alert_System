@@ -112,9 +112,13 @@ We trained and tested three major architectures. While ResNet50 had the best raw
 3.  **Run the AI Detection**
     * Install dependencies: `pip install -r requirements.txt`
     * Update the `IP Address` in the python script to match your ESP32-CAM.
+    * Output file:
+       ```bash
+       xception_performance.ipynb
+       ```
     * Run the inference script:
     ```bash
-    python real_time_detection.py
+    new_modeltraining.ipynb
     ```
 
 ---
