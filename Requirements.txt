@@ -1,0 +1,6 @@
+Requirements :
+opencv-python
+tensorflow
+numpy
+pyserial
+python-telegram-bot
